@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeEternity01](https://github.com/CodeEternity01)
 
-- 📫 How to reach me **Rahulmeena626441@gmail.com**
+- 📧 Email: **Rahulmeena626441@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
