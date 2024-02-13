@@ -10,12 +10,12 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left"> <a href="https://twitter.com/rmeena73817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rmeena73817" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/rahul-meena-2a3a0b277/](https://www.linkedin.com/in/rahul-meena-2a3a0b277/)" target="blank"><img align="center" src="https://github.com/CodeEternity01/CodeEternity01/edit/main/README.md" alt="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_1.21" target="blank"><img align="center" src="https://github.com/CodeEternity01/CodeEternity01/edit/main/README.md" alt="rahul_1.21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_1.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul_1.21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/it211072" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_1.21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rahul_1.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahul_1.21" height="30" width="40" /></a>
 <a href="leetcode.com/Rahulm_121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulm_1.21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahulmeena626441" target="blank"><img align="center" src="https://github.com/CodeEternity01/CodeEternity01/edit/main/README.md" alt="https://auth.geeksforgeeks.org/user/rahulmeena626441" height="30" width="40" /></a> </p>
+<a href="https://auth.geeksforgeeks.org/user/rahulmeena626441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://auth.geeksforgeeks.org/user/rahulmeena626441" height="30" width="40" /></a> </p>
 
 - 👋 Hi, I’m, a **Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for Android and IOS app Development** 
 - 🌱 I’m improving **System design and DSA**.
