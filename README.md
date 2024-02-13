@@ -10,7 +10,7 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left"> <a href="https://twitter.com/rmeena73817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rmeena73817" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw2l_S-USZRdHDNDh78XYdr6&ust=1707914238561000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODIv72qqIQDFQAAAAAdAAAAABAE" alt="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" target="blank"><img align="center" src="file:///C:/Users/rahul/Downloads/icons8-linkedin.svg" alt="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul_1.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_1.21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/it211072" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_1.21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rahul_1.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahul_1.21" height="30" width="40" /></a>
