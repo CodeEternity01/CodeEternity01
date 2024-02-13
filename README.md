@@ -57,11 +57,12 @@
 ## 📈 Analytics
 
 <p align="center">
-<a href="https://github.com/CodeEtertinity01">
-  <img height="180em" width="49%" margin-right="15px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeEtertinity01theme=radical&show_icons=true&include_all_commits=false&count_private=true"/>
-  <img height="180em" width="49%" src="https://streak-stats.demolab.com?user=CodeEtertinity01&theme=transparent&date_format=%5BY%20%5DM%20j&theme=radical"/>
+<a href="https://github.com/CodeEternity01">
+  <img height="180em" width="49%" margin-right="15px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namannayak1&theme=radical&show_icons=true&include_all_commits=false&count_private=true"/>
+  <img height="180em" width="49%" src="https://streak-stats.demolab.com?user=namannayak1&theme=transparent&date_format=%5BY%20%5DM%20j&theme=radical"/>
 
 
+</p>
 
          
 ## 🛠️ Languages and Tools :
