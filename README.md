@@ -24,14 +24,6 @@
 - 📫 How to reach me **rahulmeena626441@gmail.com**
 - 💞️ Love to share knowledge and contribute to Open Source community.
   
- ## 🛠 Skills
-
-- **Languages**: C++,Dart,C
-- **Front-End**: Flutter, Flutterflow, HTML, CSS
-- **Back-End**: API, Mysql,(Firebase & Appwrite as BaaS), node.js
-- **Architectural patterns**: MVVM & Clean Architecture
-- **Others** :  Wordpress,Figma, Canva
-- **Tools** :  VS Code, Android Studio,GIT
 
 ## 📈 Projects
 
@@ -40,12 +32,6 @@
 - **[Quiz_App](#)**:Implemented a scoring system to track user performance and progress, displaying detailed results at the end of each quiz session.
 - **[e-Gurukul](#)**: Created this Project during Smart India Hackathon which can increase rural education by 40%. A Flutter based student complaints portal that allows students and parents to submit complaints, categorizes and stores them in a database.
 - **[Trac-AI](#)**:In the IoT-Rajasthan Day Hackathon, I designed an AI Tractor IoT device integrated with a Flutter app. The app offers a video display of the tractor's operations and enables users to toggle between self-control, manual control, and AI control. This innovative solution enhances agricultural efficiency by providing versatile control options for the tractor, promoting smart and efficient farming practices.
-
-## 📄 Working Experience
-
-- **Product Development Intern**:  (Jan 2024 - Present)
-- **App Developer**:  (Jul 2023 - Sep 2023)
-- **C++ Developer**:   (April 2023 - June 2023)
 
 ## 🎓 Education
 
