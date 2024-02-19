@@ -27,7 +27,7 @@
 
 ## 📈 Projects
 
-- **[Meal_App](#)**: The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically. Users can effortlessly add and delete meals, with an intuitive interface for specifying vegetarian preferences. This app seamlessly combines simplicity and functionality for a personalized meal tracking experience.
+- **[Meal_App](#)**: The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically. Users can effortlessly add and delete meals, with an intuitive interface for specifying vegetarian preferences. This app seamlessly combine simplicity and functionality for a personalized meal tracking experience.
 - **[Expense Tracker](#)**:Implemented dynamic expense entry with input validation, date selection, and category tagging. Added filters and search functionalities for efficient navigation and review of expense history.
 - **[Quiz_App](#)**:Implemented a scoring system to track user performance and progress, displaying detailed results at the end of each quiz session.
 - **[e-Gurukul](#)**: Created this Project during Smart India Hackathon which can increase rural education by 40%. A Flutter based student complaints portal that allows students and parents to submit complaints, categorizes and stores them in a database.
