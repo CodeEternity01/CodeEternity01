@@ -15,19 +15,20 @@
 ### 📈 Projects
 
 #### Meal_App
-A Flutter app that lets users manage meals dynamically, plan recipes, and track ingredients conveniently.
+The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically. It features intuitive meal planning, ingredient tracking, and customizable recipes. Users can easily add and delete meals, with a user-friendly interface for specifying dietary preferences. This app seamlessly combines simplicity and functionality for a personalized meal tracking experience.
 
 #### Expense Tracker
-An expense tracking app with features for input validation, date selection, and category tagging, facilitating efficient expense management.
+Implemented dynamic expense entry with input validation, date selection, and category tagging. This expense tracker app allows users to monitor their spending habits effectively. It features detailed expense history, filters, and search functionalities for efficient navigation and review of expenses.
 
 #### Quiz_App
-A quiz app with a scoring system to monitor user progress and provide detailed feedback, offering an engaging learning experience.
+Implemented a scoring system to track user performance and progress in quizzes. This quiz app provides users with a fun and interactive way to test their knowledge on various topics. It offers detailed results at the end of each quiz session, encouraging continuous learning and improvement.
 
 #### e-Gurukul
-A Flutter-based student complaints portal developed during Smart India Hackathon, aimed at enhancing rural education by streamlining communication between students, parents, and educational institutions.
+Created during Smart India Hackathon to increase rural education by 40%. e-Gurukul is a Flutter-based student complaints portal that enables students and parents to submit complaints, categorizes them, and stores them in a database. It streamlines the complaint management process and facilitates effective communication between students, parents, and educational institutions.
 
 #### Trac-AI
-An innovative AI Tractor IoT device integrated with a Flutter app, providing versatile control options for agricultural operations, promoting efficiency and smart farming practices.
+Designed an AI Tractor IoT device integrated with a Flutter app during the IoT-Rajasthan Day Hackathon. Trac-AI offers versatile control options for the tractor, including self-control, manual control, and AI control. The Flutter app provides users with a video display of the tractor's operations and allows seamless toggling between control modes. This innovative solution enhances agricultural efficiency and promotes smart farming practices.
+
 
 
 
