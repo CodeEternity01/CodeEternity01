@@ -1,43 +1,66 @@
-  
-</p><!----------------------------------- Heading Section ------------------------------------>
-<h1 align="left">
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-    I'm Rahul Meena
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
-<h3 align="left">A passionate Flutter Developer from India, dedicated to crafting end-to-end solutions and delivering exceptional products. </h3>
-<!----------------------------------- Profile View Section ------------------------------------>
+## 👋 Hello, I'm Rahul Meena
 
-<p align="left"> <a href="https://twitter.com/rmeena73817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rmeena73817" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahul-meena-2a3a0b277/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_1.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_1.21" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/it211072" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_1.21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rahul_1.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahul_1.21" height="30" width="40" /></a>
-<a href="leetcode.com/Rahulm_121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulm_1.21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahulmeena626441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+<p align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  A passionate Flutter Developer from India, dedicated to crafting end-to-end solutions and delivering exceptional products. 
 </p>
 
-- 👋 Hi, I’m, a **Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for Android and IOS app Development** 
-- 🌱 I’m improving **System design and DSA**.
-- 💬 Ask me about **Hybrid Application Development**
-- 💞️ I’m looking to collaborate on Dart,Flutter,Firebase,Appwrite and Pair Programming 
-- 📫 How to reach me **rahulmeena626441@gmail.com**
-- 💞️ Love to share knowledge and contribute to Open Source community.
-  
+### 💼 About Me
 
-## 📈 Projects
+- 🎓 Third-year IT student at JEC Jabalpur
+- 🚀 Experienced in Flutter app development and C++ programming
+- 💬 Ask me about Hybrid Application Development
+- 💞️ Love to share knowledge and contribute to the Open Source community
 
-- **[Meal_App](#)**: The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically. Users can effortlessly add and delete meals, with an intuitive interface for specifying vegetarian preferences. This app seamlessly combine simplicity and functionality for a personalized meal tracking experience.
-- **[Expense Tracker](#)**:Implemented dynamic expense entry with input validation, date selection, and category tagging. Added filters and search functionalities for efficient navigation and review of expense history.
-- **[Quiz_App](#)**:Implemented a scoring system to track user performance and progress, displaying detailed results at the end of each quiz session.
-- **[e-Gurukul](#)**: Created this Project during Smart India Hackathon which can increase rural education by 40%. A Flutter based student complaints portal that allows students and parents to submit complaints, categorizes and stores them in a database.
-- **[Trac-AI](#)**:In the IoT-Rajasthan Day Hackathon, I designed an AI Tractor IoT device integrated with a Flutter app. The app offers a video display of the tractor's operations and enables users to toggle between self-control, manual control, and AI control. This innovative solution enhances agricultural efficiency by providing versatile control options for the tractor, promoting smart and efficient farming practices.
+### 📈 Projects
+
+#### Meal_App
+The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically.
+
+#### Expense Tracker
+Implemented dynamic expense entry with input validation, date selection, and category tagging.
+
+#### Quiz_App
+Implemented a scoring system to track user performance and progress.
+
+#### e-Gurukul
+Created during Smart India Hackathon to increase rural education by 40%.
+
+#### Trac-AI
+Designed an AI Tractor IoT device integrated with a Flutter app during the IoT-Rajasthan Day Hackathon.
+
+### 🎓 Education
+
+- **B.Tech**: Information Technology from JEC Jabalpur
+- **Class-12**: Sarda Vidhya Mandir Senior Secondary School, Bhopal (94% in PCM)
+
+### 🛠️ Languages and Tools
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
+</p>
+
+### 🤝 Connect with Me
+
+<p align="left"> 
+  <a href="https://twitter.com/rmeena73817"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/rahul-meena-2a3a0b277/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://instagram.com/rahul_1.21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://www.codechef.com/users/it211072"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40"/></a>
+  <a href="https://codeforces.com/profile/rahul_1.21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/></a>
+  <a href="leetcode.com/Rahulm_121/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/rahulmeena626441"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/></a>
+</p>
+
 
 ## 🎓 Education
 
 - **B.Tech**: Information Technology From JEC Jabalpur
-- **Class-12**: Sarda vidhya mandir Senior Secondary School Bhopal (94% Percentage in PCM)
+- **Class-12**: Sarda vidhya mandir Senior Secondary School Bhopal (94.5% Percentage in PCM)
 
 
  
@@ -55,10 +78,6 @@
 ## 🛠️ Languages and Tools :
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-
-
-<!-----------------------------------<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namannayak1&show_icons=true&locale=en&layout=compact" alt="namannayak1" /></p>------------------------------------>
 
 
 
