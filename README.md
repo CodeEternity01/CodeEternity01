@@ -15,7 +15,7 @@
 ### 📈 Projects
 
 #### Meal_App
-The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically. It features intuitive meal planning, ingredient tracking, and customizable recipes. Users can easily add and delete meals, with a user-friendly interface for specifying dietary preferences. This app seamlessly combines simplicity and functionality for a personalized meal tracking experience.
+The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically. It features intuitive meal planning, ingredient tracking, and customizable recipes. Users can easily add and delete meals, with a user-friendly interface for specifying dietary preferences.
 
 #### Expense Tracker
 Implemented dynamic expense entry with input validation, date selection, and category tagging. This expense tracker app allows users to monitor their spending habits effectively. It features detailed expense history, filters, and search functionalities for efficient navigation and review of expenses.
@@ -28,9 +28,6 @@ Created during Smart India Hackathon to increase rural education by 40%. e-Guruk
 
 #### Trac-AI
 Designed an AI Tractor IoT device integrated with a Flutter app during the IoT-Rajasthan Day Hackathon. Trac-AI offers versatile control options for the tractor, including self-control, manual control, and AI control. The Flutter app provides users with a video display of the tractor's operations and allows seamless toggling between control modes. This innovative solution enhances agricultural efficiency and promotes smart farming practices.
-
-
-
 
 ### 🎓 Education
 
@@ -66,3 +63,4 @@ Designed an AI Tractor IoT device integrated with a Flutter app during the IoT-R
 ## 🛠️ Languages and Tools :
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
