@@ -15,25 +15,28 @@
 ### 📈 Projects
 
 #### Meal_App
-The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically.
+A Flutter app that lets users manage meals dynamically, plan recipes, and track ingredients conveniently.
 
 #### Expense Tracker
-Implemented dynamic expense entry with input validation, date selection, and category tagging.
+An expense tracking app with features for input validation, date selection, and category tagging, facilitating efficient expense management.
 
 #### Quiz_App
-Implemented a scoring system to track user performance and progress.
+A quiz app with a scoring system to monitor user progress and provide detailed feedback, offering an engaging learning experience.
 
 #### e-Gurukul
-Created during Smart India Hackathon to increase rural education by 40%.
+A Flutter-based student complaints portal developed during Smart India Hackathon, aimed at enhancing rural education by streamlining communication between students, parents, and educational institutions.
 
 #### Trac-AI
-Designed an AI Tractor IoT device integrated with a Flutter app during the IoT-Rajasthan Day Hackathon.
+An innovative AI Tractor IoT device integrated with a Flutter app, providing versatile control options for agricultural operations, promoting efficiency and smart farming practices.
+
+
 
 ### 🎓 Education
 
 - **B.Tech**: Information Technology from JEC Jabalpur
 - **Class-12**: Sarda Vidhya Mandir Senior Secondary School, Bhopal (94.4% in PCM)
-- 
+  
+
 
 ### 🤝 Connect with Me
 
