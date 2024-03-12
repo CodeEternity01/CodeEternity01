@@ -12,27 +12,17 @@
 - 💬 Ask me about Hybrid Application Development
 - 💞️ Love to share knowledge and contribute to the Open Source community
 
-### 📈 Projects
-
-#### Meal_App
-The Dynamic Meal App, built with Flutter, empowers users to manage their meals dynamically. It features intuitive meal planning, ingredient tracking, and customizable recipes. Users can easily add and delete meals, with a user-friendly interface for specifying dietary preferences.
-
-#### Expense Tracker
-Implemented dynamic expense entry with input validation, date selection, and category tagging. This expense tracker app allows users to monitor their spending habits effectively. It features detailed expense history, filters, and search functionalities for efficient navigation and review of expenses.
-
-#### Quiz_App
-Implemented a scoring system to track user performance and progress in quizzes. This quiz app provides users with a fun and interactive way to test their knowledge on various topics. It offers detailed results at the end of each quiz session, encouraging continuous learning and improvement.
-
-#### e-Gurukul
-Created during Smart India Hackathon to increase rural education by 40%. e-Gurukul is a Flutter-based student complaints portal that enables students and parents to submit complaints, categorizes them, and stores them in a database. It streamlines the complaint management process and facilitates effective communication between students, parents, and educational institutions.
-
-#### Trac-AI
-Designed an AI Tractor IoT device integrated with a Flutter app during the IoT-Rajasthan Day Hackathon. Trac-AI offers versatile control options for the tractor, including self-control, manual control, and AI control. The Flutter app provides users with a video display of the tractor's operations and allows seamless toggling between control modes. This innovative solution enhances agricultural efficiency and promotes smart farming practices.
+📈 Projects
+- **Meal App:** The Dynamic Meal App built with Flutter empowers users to manage meals dynamically, with intuitive meal planning and customizable recipes.
+- **Expense Tracker:** Implemented dynamic expense entry with input validation and detailed expense history, aiding users in monitoring their spending habits effectively.
+- **Quiz App:** A scoring system tracks user performance and provides detailed results, encouraging continuous learning.
+- **e-Gurukul:** Created during Smart India Hackathon, e-Gurukul is a Flutter-based student complaints portal aimed at improving rural education by streamlining communication between stakeholders.
+- **Trac-AI:** Designed an AI Tractor IoT device integrated with a Flutter app, enhancing agricultural efficiency and promoting smart farming practices.
 
 ### 🎓 Education
 
-- **B.Tech**: Information Technology from JEC Jabalpur
-- **Class-12**: Sarda Vidhya Mandir Senior Secondary School, Bhopal (94.4% in PCM)
+- **B.Tech**: Information Technology from JEC Jabalpur (Expected graduation: 2025)
+- **Class-12**: Sarda Vidhya Mandir Senior Secondary School, Bhopal (94.4% in PCM, Year of completion: 2020)
   
 
 
