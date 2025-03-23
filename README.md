@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 
-- 🎓 Third-year IT student at JEC Jabalpur
+- 🎓 Final-year IT student at JEC Jabalpur
 - 🚀 Experienced in Flutter app development and C++ programming
 - 💬 Ask me about Hybrid Application Development
 - 💞️ Love to share knowledge and contribute to the Open Source community
